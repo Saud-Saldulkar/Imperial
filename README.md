@@ -1,8 +1,2 @@
-Copy of:
-
-Imperial College - MSc Thesis 
-
-- Image Processing Code 
-
-- Stimulus code
+Misc. Code used at Imperial for thesis
 
